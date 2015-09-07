@@ -1,0 +1,58 @@
+body {
+  /* Background pattern from subtlepatterns.com */
+  background-image: url('../img/tweed.png');
+  color: #aaa;
+}
+
+h1 {
+  color: #eb9532;
+  font-family: 'Lobster', sans-serif;
+  font-size: 5em;
+  line-height: 0.4em;
+  text-align: right;
+}
+
+h2 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 1.25em;
+  text-align: right;
+}
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  padding-top: 40px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+.social-icon {
+  width: 60px;
+  height: 60px;
+  margin: 0 5px;
+}
+
+#wrapper {
+  max-width: 340px;
+  margin: 0 auto;
+}
+
+#primary {
+  max-width: 310px;
+  margin: 0 auto;
+}
+  
+#secondary {
+  max-width: 340px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 40px;
+}

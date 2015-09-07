@@ -1,0 +1,25 @@
+@media screen and (min-width: 480px) {
+  
+  h2 {
+    padding-top: 10px;
+  }
+
+  footer {
+    padding-top: 340px;
+  }
+
+  #wrapper {
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+
+  #primary {
+    float: left;
+  }
+  
+  #secondary {
+    width: 100px;
+    float: right;
+  }
+}
